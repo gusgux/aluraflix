@@ -1,0 +1,20 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "title": "Front-End",
+            "descruipcion": "videos de front",
+            "color": "green",
+            "codigo": 123
+        }
+    ],
+    "videos": [
+        {
+            "title": "videos de Front-end",
+            "urlVideo": "url",
+            "urlimage": "url",
+            "categoryId": 1,
+            "descripcion": "curso react"
+        }
+    ]
+}

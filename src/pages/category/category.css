@@ -1,0 +1,9 @@
+.container {
+    margin: 2rem;
+}
+.btn-box-videos {
+    width: 100%;
+    display: flex;
+    gap: 2rem;
+    margin: 1rem;
+}

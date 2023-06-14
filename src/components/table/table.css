@@ -1,0 +1,27 @@
+.table {
+    color: white;
+    border-collapse: collapse;
+    border-spacing: 0;
+    border: 4px solid #2a7ae4;
+    letter-spacing: 1px;
+}
+
+.table-th {
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 41px;
+    border: 4px solid #2a7ae4;
+}
+.table-td {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 300;
+    font-size: 27px;
+    line-height: 32px;
+    border: 3.9px solid #000000e5;
+}
+
+/* .table-td:nth-child(4n + 0) {
+    border-right: none;
+}
+ */
